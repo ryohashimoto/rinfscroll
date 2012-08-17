@@ -1,0 +1,21 @@
+#contents {
+    overflow-y: scroll;
+    width: 320px;
+    height: 320px;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+#products {
+    width: 320px;
+    font-size: 12px;
+}
+#map {
+    width: 640px;
+    height: 480px;
+    background-color: #eee;
+    float: left;
+}
+#current_page {
+  display: none;
+}
